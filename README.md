@@ -127,7 +127,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=Login-screen&title_color=33ff&icon_color=333" />
   </a>
   &nbsp; &nbsp;
-  <a href="Front-End-Mentor-B-apparel">
+  <a href="https://github.com/GuilhermeBarroso-sys/Front-End-Mentor-B-apparel">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=Front-End-Mentor-B-apparel&title_color=33ff&icon_color=333" />
   </a>
 </p>
