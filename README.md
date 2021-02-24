@@ -8,19 +8,10 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBarroso-sys&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=GuilhermeBarroso-sys&show_icons=true&hide_border=true&title_color=33ff&icon_color=ff3366"
-    />
-  </a>
+  <p align="center">
+    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBarroso-sys&count=8&exclude_repo=Senac-Projeto&layout=compact&theme=cobalt"/>
+    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBarroso-sys&count_private=true&show_icons=true&theme=cobalt"/>
+  
 </p>
 
 
