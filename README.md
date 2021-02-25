@@ -44,13 +44,6 @@
       height="40"
     />
   </a>
-  <a href = "https://www.oracle.com/br/java/technologies/javase-downloads.html" target = "_blank">
-      <img 
-           src = "https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1614099162~hmac=9e17cd427b3c100090ff1f625347aa73"
-           alt = "java"
-           width = "40"
-           height = "40">
-   </a>
   <a href="#" target="_blank">
       <img width="40px" height="40px" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   </a>
