@@ -44,6 +44,14 @@
       height="40"
     />
   </a>
+  <a href="https://pt-br.reactjs.org/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="#" target="_blank">
       <img width="40px" height="40px" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   </a>
@@ -111,8 +119,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=Login-screen&title_color=33ff&icon_color=333" />
   </a>
   &nbsp; &nbsp;
-  <a href="https://github.com/GuilhermeBarroso-sys/Front-End-Mentor-B-apparel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=Front-End-Mentor-B-apparel&title_color=33ff&icon_color=333" />
+  <a href="https://github.com/GuilhermeBarroso-sys/gitHub-Search">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=gitHub-Search&title_color=33ff&icon_color=333" />
   </a>
 </p>
 
