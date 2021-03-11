@@ -52,6 +52,15 @@
       height="40"
     />
   </a>
+  <a href="https://java.com/en/download/help/develop.html" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+ 
   <a href="#" target="_blank">
       <img width="40px" height="40px" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   </a>
