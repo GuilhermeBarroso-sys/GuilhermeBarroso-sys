@@ -138,7 +138,7 @@
 ### Entre em contato:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guilherme-barroso-931147175//">
+  <a href="https://www.linkedin.com/in/guilherme-barroso-931147175/">
   <img alt="Gui | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
   </a>
   <a href="https://www.instagram.com/gui_barrosoo/">
