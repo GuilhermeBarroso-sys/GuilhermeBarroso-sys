@@ -141,9 +141,7 @@
   <a href="https://www.linkedin.com/in/guilherme-barroso-931147175/">
   <img alt="Gui | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
   </a>
-  <a href="https://www.instagram.com/gui_barrosoo/">
-  <img alt="Gui | Instagram" width="30px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />
-  </a>
+ 
   
 </p>
 
