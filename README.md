@@ -3,7 +3,7 @@
 - 📖 No presente momento faço Sistema de Informação na UNIFOA
 - 🌱 Atualmente estou aprendendo sobre Node.JS.
 - 💻 Estou buscando desenvolver mais projetos pessoais e aprender novas tecnologias.
-- 👨‍💻 Meta de 2021: Conseguir um estágio ou emprego para adquirir experiência e ter contato com o mercado.
+
 
 <br/>
 
