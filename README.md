@@ -14,7 +14,6 @@
   
 </p>
 
-
 ---
 
 ### Linguagens e Ferramentas que utilizo:
