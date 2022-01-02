@@ -103,7 +103,7 @@
 ### ⭐Meus melhores projetos
 
 <p align="center">
-  <a href="https://github.com/GuilhermeBarroso-sys/Ninja-Press-Blog">
+  <a href="https://github.com/GuilhermeBarroso-sys/blog-front">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=blog-front&title_color=33ff&icon_color=333" />
   </a>
   &nbsp; &nbsp;
@@ -114,8 +114,8 @@
   <br />
   <br />
 
-  <a href="https://github.com/GuilhermeBarroso-sys/Login-screen">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=Login-screen&title_color=33ff&icon_color=333" />
+  <a href="https://github.com/GuilhermeBarroso-sys/Back-end-Blog">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=Back-end-Blog&title_color=33ff&icon_color=333" />
   </a>
   &nbsp; &nbsp;
   <a href="https://github.com/GuilhermeBarroso-sys/gitHub-Search">
