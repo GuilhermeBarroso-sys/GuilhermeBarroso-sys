@@ -104,7 +104,7 @@
 
 <p align="center">
   <a href="https://github.com/GuilhermeBarroso-sys/Ninja-Press-Blog">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=Ninja-Press-Blog&title_color=33ff&icon_color=333" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=blog-front&title_color=33ff&icon_color=333" />
   </a>
   &nbsp; &nbsp;
   <a href="https://github.com/GuilhermeBarroso-sys/My-Unity-Game">
