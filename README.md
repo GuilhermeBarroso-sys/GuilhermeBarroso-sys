@@ -43,10 +43,25 @@
       height="40"
     />
   </a>
+  <a href="https://nodejs.org/en/">
+    <img 
+        src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-nodejs.svg" 
+        alt="logo Node.js"
+        width="40px"
+        style="border-radius: 8px;">
+  </a>
   <a href="https://pt-br.reactjs.org/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
       alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://sass-lang.com/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
+      alt="AWS"
       width="40"
       height="40"
     />
@@ -64,24 +79,6 @@
            width = "40px"
        />
   </a>
-  <a href="https://nodejs.org/en/">
-      <img 
-          src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-nodejs.svg" 
-          alt="logo Node.js"
-          width="40px"
-          style="border-radius: 8px;">
-  </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank">
-      <img alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-  </a>
-  
-  <a href="https://git-scm.com/">
-      <img 
-          src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-git.svg" 
-          alt="logo git"
-          width="40px">
-  </a>
-  
   <a href="#" target="_blank">
       <img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   </a>
