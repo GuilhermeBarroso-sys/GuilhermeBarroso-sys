@@ -1,7 +1,7 @@
 ### Olá, eu sou Guilherme Barroso de Oliveira 👋
 
 - 📖 No presente momento faço Sistema de Informação na UNIFOA
-- 🌱 Atualmente estou aprendendo sobre Node.JS e Typescript.
+- 🌱 Atualmente estou aprendendo sobre Node.JS, Typescript e serveless.
 - 💻 Estou buscando desenvolver mais projetos pessoais e aprender novas tecnologias.
 
 
