@@ -58,6 +58,7 @@
       height="40"
     />
   </a>
+
   <a href="https://sass-lang.com/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
@@ -66,22 +67,35 @@
       height="40"
     />
   </a>
-  <a href="#" target="_blank">
-      <img width="40px" height="40px" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <a href="https://aws.amazon.com/pt/" target="_blank">
+    <img alt="aws" width="40px" src="https://logodownload.org/wp-content/uploads/2017/11/amazon-web-services-logo.png" />
   </a>
-  <a href="#" target="_blank">
-      <img width="40px" height="40px" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <a href="https://www.heroku.com/" target="_blank">
+    <img alt="heroku" width="40px" src="https://raw.githubusercontent.com/ivangabriele/vscode-heroku/master/res/icon.png" />
+  </a>
+  
+  </a>
+  <a href = "https://mui.com/pt/">
+      <img
+           src = "https://github.com/GuilhermeBarroso-sys/devicon/blob/master/icons/materialui/materialui-original.svg"
+           alt = "mui"
+           width = "40px"
+       />
   </a>
   <a href = "https://getbootstrap.com/">
       <img
            src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"
-           alt = "java"
+           alt = "bootstrap"
            width = "40px"
        />
   </a>
   <a href="#" target="_blank">
       <img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   </a>
+   <a href="https://ubuntu.com/download" target="_blank">
+      <img alt="Linux" width="40px" src="https://e-tinet.com/wp-content/uploads/2013/06/ubuntu-logo-configuracao-dual-boot-windows83-2.png" />
+  </a>
+  
   <a href="https://code.visualstudio.com/">
       <img 
           src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-vscode.svg" 
