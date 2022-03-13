@@ -140,7 +140,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-barroso-931147175/">
-  <img alt="Gui | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img alt="Gui | LinkedIn" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
   </a>
  
   
@@ -151,4 +151,3 @@
 ---
 
 [linkedin]: https://www.linkedin.com/in/guilherme-barroso-931147175
-[instagram]: https://www.instagram.com/gui_barrosoo
