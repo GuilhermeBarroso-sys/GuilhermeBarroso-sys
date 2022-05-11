@@ -114,23 +114,23 @@
 ### ⭐Meus melhores projetos
 
 <p align="center">
-  <a href="https://github.com/GuilhermeBarroso-sys/blog-front">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=blog-front&title_color=33ff&icon_color=333" />
+  <a href="https://github.com/GuilhermeBarroso-sys/TMDB-Desafio-Front-end">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=TMDB-Desafio-Front-end&title_color=33ff&icon_color=333" />
   </a>
   &nbsp; &nbsp;
-  <a href="https://github.com/GuilhermeBarroso-sys/My-Unity-Game">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=My-Unity-Game&title_color=33ff&icon_color=333" />
+  <a href="https://github.com/GuilhermeBarroso-sys/EFinances-FRONT">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=EFinances-FRONT&title_color=33ff&icon_color=333" />
   </a>
 
   <br />
   <br />
 
-  <a href="https://github.com/GuilhermeBarroso-sys/Back-end-Blog">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=Back-end-Blog&title_color=33ff&icon_color=333" />
+  <a href="https://github.com/GuilhermeBarroso-sys/TMDB-Desafio-Back-end">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=TMDB-Desafio-Back-end&title_color=33ff&icon_color=333" />
   </a>
   &nbsp; &nbsp;
-  <a href="https://github.com/GuilhermeBarroso-sys/gitHub-Search">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=gitHub-Search&title_color=33ff&icon_color=333" />
+  <a href="https://github.com/GuilhermeBarroso-sys/EFinances-Back">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=EFinances-Back&title_color=33ff&icon_color=333" />
   </a>
 </p>
 
