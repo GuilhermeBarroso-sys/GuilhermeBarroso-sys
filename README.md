@@ -1,6 +1,6 @@
 ### Olá, eu sou Guilherme Barroso de Oliveira 👋
 
-- 📖 No presente momento faço Sistema de Informação na Estácio
+- 📖 No momento faço Sistema de Informação na Estácio
 - 🌱 Atualmente estou aprendendo sobre Node.JS, Typescript e Serverless.
 - 💻 Estou buscando desenvolver mais projetos pessoais e aprender novas tecnologias.
 
