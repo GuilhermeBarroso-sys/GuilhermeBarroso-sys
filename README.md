@@ -1,9 +1,8 @@
-### Olá, eu sou Guilherme Barroso de Oliveira 👋
+### Hi! I'm Guilherme Barroso 👋
 
-- 📖 No momento faço Sistema de Informação na Estácio
-- 🌱 Atualmente estou aprendendo sobre Node.JS, Typescript e Serverless.
-- 💻 Estou buscando desenvolver mais projetos pessoais e aprender novas tecnologias.
-
+- 👨‍💻 Back-end Developer at ZENVIA.
+- 🌱 Always studying and improving my skills in Node.js, Typescript, serverless (AWS) and Docker
+- 📖 I'm currently studying Information System at college.
 
 <br/>
 
@@ -16,7 +15,7 @@
 
 ---
 
-### Linguagens e Ferramentas que utilizo:
+### 🧑‍💻 Technologies/tools that I often use:
 
 <a href="#" target="_blank">
 </a>
@@ -111,7 +110,7 @@
 
 ---
 
-### ⭐Meus melhores projetos
+### ⭐ My best projects
 
 <p align="center">
   <a href="https://github.com/GuilhermeBarroso-sys/TMDB-Desafio-Front-end">
@@ -136,7 +135,7 @@
 
 ---
 
-### Entre em contato:
+### My contact:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-barroso-931147175/">
