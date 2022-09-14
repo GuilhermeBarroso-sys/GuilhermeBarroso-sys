@@ -8,8 +8,8 @@
 
 <p align="center">
   <p align="center">
-    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBarroso-sys&layout=compact&theme=radical"/>
-    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBarroso-sys&count_private=true&show_icons=true&theme=synthwave"/>
+    <img height=165 align="center" src="https://github-readme-stats-alpha-umber-11.vercel.app/api/top-langs/?username=GuilhermeBarroso-sys&layout=compact&theme=radical"/>
+    <img height=165 align="center" src="https://github-readme-stats-alpha-umber-11.vercel.app/api?username=GuilhermeBarroso-sys&count_private=true&show_icons=true&theme=synthwave"/>
   
 </p>
 
@@ -114,22 +114,22 @@
 
 <p align="center">
   <a href="https://github.com/GuilhermeBarroso-sys/TMDB-Desafio-Front-end">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=TMDB-Desafio-Front-end&title_color=33ff&icon_color=333" />
+    <img align="center" src="https://github-readme-stats-alpha-umber-11.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=TMDB-Desafio-Front-end&title_color=33ff&icon_color=333" />
   </a>
   &nbsp; &nbsp;
   <a href="https://github.com/GuilhermeBarroso-sys/EFinances-FRONT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=EFinances-FRONT&title_color=33ff&icon_color=333" />
+    <img align="center" src="https://github-readme-stats-alpha-umber-11.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=EFinances-FRONT&title_color=33ff&icon_color=333" />
   </a>
 
   <br />
   <br />
 
   <a href="https://github.com/GuilhermeBarroso-sys/TMDB-Desafio-Back-end">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=TMDB-Desafio-Back-end&title_color=33ff&icon_color=333" />
+    <img align="center" src="https://github-readme-stats-alpha-umber-11.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=TMDB-Desafio-Back-end&title_color=33ff&icon_color=333" />
   </a>
   &nbsp; &nbsp;
   <a href="https://github.com/GuilhermeBarroso-sys/EFinances-Back">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=EFinances-Back&title_color=33ff&icon_color=333" />
+    <img align="center" src="https://github-readme-stats-alpha-umber-11.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=EFinances-Back&title_color=33ff&icon_color=333" />
   </a>
 </p>
 
