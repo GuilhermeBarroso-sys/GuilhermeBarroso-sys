@@ -1,7 +1,7 @@
 ### Hi! I'm Guilherme Barroso 👋
 
-- 👨‍💻 Back-end Developer at ZENVIA.
-- 🌱 Always studying and improving my skills in Node.js, Typescript, serverless (AWS) and Docker
+- 👨‍💻 Back-end Developer at Automate Army.
+- 🌱 Always studying and improving my skills.
 - 📖 I'm currently studying Information System at college.
 
 <br/>
