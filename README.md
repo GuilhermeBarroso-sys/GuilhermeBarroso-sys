@@ -14,7 +14,6 @@ Back-end Developer at Automate Army passionate about coding and continuous learn
 ## 📊 GitHub Stats
 
 <img height="180em" src="https://github-readme-stats-alpha-umber-11.vercel.app/api?username=GuilhermeBarroso-sys&count_private=true&show_icons=true&theme=synthwave"/>
-<img height="180em" src="https://github-readme-stats-alpha-umber-11.vercel.app/api/top-langs/?username=GuilhermeBarroso-sys&layout=compact&theme=radical"/>
 
 ---
 
