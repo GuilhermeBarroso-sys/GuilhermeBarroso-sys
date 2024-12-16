@@ -1,26 +1,21 @@
-<div align="center">
+### Hi! I'm Guilherme Barroso 👋
 
-# I'm Guilherme Barroso 👋
+- 👨‍💻 Back-end Developer at Automate Army.
+- 🌱 Always studying and improving my skills.
+- 📖 I'm currently studying Information System at college.
 
-[![LinkedIn](https://img.shields.io/badge/-Guilherme%20Barroso-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-barroso-931147175/)
-[![GitHub](https://img.shields.io/badge/-GuilhermeBarroso--sys-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GuilhermeBarroso-sys)
+<br/>
 
-## 👨‍💻 About Me
-
-Back-end Developer at Automate Army passionate about coding and continuous learning. Currently pursuing Information Systems to deepen my technical knowledge.
-
----
-
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats-alpha-umber-11.vercel.app/api?username=GuilhermeBarroso-sys&count_private=true&show_icons=true&theme=synthwave"/>
+<p align="center">
+  <p align="center">
+    <img height=165 align="center" src="https://github-readme-stats-alpha-umber-11.vercel.app/api/top-langs/?username=GuilhermeBarroso-sys&layout=compact&theme=radical"/>
+    <img height=165 align="center" src="https://github-readme-stats-alpha-umber-11.vercel.app/api?username=GuilhermeBarroso-sys&count_private=true&show_icons=true&theme=synthwave"/>
+  </p>
+</p>
 
 ---
 
-<div align="center">
-
-
-## 🛠️ Tech Stack
+### 🧑‍💻 Technologies/tools that I often use:
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -60,25 +55,43 @@ Back-end Developer at Automate Army passionate about coding and continuous learn
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
 
+---
 
-</div>
+### ⭐ My best projects
+
+<p align="center">
+  <a href="https://github.com/GuilhermeBarroso-sys/TMDB-Desafio-Front-end">
+    <img align="center" src="https://github-readme-stats-alpha-umber-11.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=TMDB-Desafio-Front-end&title_color=33ff&icon_color=333" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://github.com/GuilhermeBarroso-sys/EFinances-FRONT">
+    <img align="center" src="https://github-readme-stats-alpha-umber-11.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=EFinances-FRONT&title_color=33ff&icon_color=333" />
+  </a>
+
+  <br />
+  <br />
+
+  <a href="https://github.com/GuilhermeBarroso-sys/TMDB-Desafio-Back-end">
+    <img align="center" src="https://github-readme-stats-alpha-umber-11.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=TMDB-Desafio-Back-end&title_color=33ff&icon_color=333" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://github.com/GuilhermeBarroso-sys/EFinances-Back">
+    <img align="center" src="https://github-readme-stats-alpha-umber-11.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=EFinances-Back&title_color=33ff&icon_color=333" />
+  </a>
+</p>
+
+---
+ 
+### My contact:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-barroso-931147175/">
+  <img alt="Gui | LinkedIn" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
+  </a>
+</p>
+
+<br />
 
 ---
 
-## 🌟 Featured Projects
-
-<a href="https://github.com/GuilhermeBarroso-sys/TMDB-Desafio-Front-end">
-  <img align="center" src="https://github-readme-stats-alpha-umber-11.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=TMDB-Desafio-Front-end&theme=radical" />
-</a>
-<a href="https://github.com/GuilhermeBarroso-sys/EFinances-FRONT">
-  <img align="center" src="https://github-readme-stats-alpha-umber-11.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=EFinances-FRONT&theme=radical" />
-</a>
-
-<a href="https://github.com/GuilhermeBarroso-sys/TMDB-Desafio-Back-end">
-  <img align="center" src="https://github-readme-stats-alpha-umber-11.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=TMDB-Desafio-Back-end&theme=radical" />
-</a>
-<a href="https://github.com/GuilhermeBarroso-sys/EFinances-Back">
-  <img align="center" src="https://github-readme-stats-alpha-umber-11.vercel.app/api/pin/?username=GuilhermeBarroso-sys&repo=EFinances-Back&theme=radical" />
-</a>
-
-</div>
+[linkedin]: https://www.linkedin.com/in/guilherme-barroso-931147175
