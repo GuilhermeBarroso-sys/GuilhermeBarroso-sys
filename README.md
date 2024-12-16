@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hello World! I'm Guilherme Barroso 👋
+# I'm Guilherme Barroso 👋
 
 [![LinkedIn](https://img.shields.io/badge/-Guilherme%20Barroso-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-barroso-931147175/)
 [![GitHub](https://img.shields.io/badge/-GuilhermeBarroso--sys-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GuilhermeBarroso-sys)
 
 ## 👨‍💻 About Me
 
-Back-end Developer @ Automate Army passionate about coding and continuous learning. Currently pursuing Information Systems to deepen my technical knowledge.
+Back-end Developer at Automate Army passionate about coding and continuous learning. Currently pursuing Information Systems to deepen my technical knowledge.
 
 ---
 
